@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Python, Data Science, Tarot ([see my bot](https://github.com/CelinaWalkowicz/Discord-Bots)).
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I needle felt imaginary monsters.
-- 🐾 Pet: I have a Pembroke Welsh Corgi named Radagast the Marble Rye, after Radagast the Brown. 
+- 🐾 Pet: I have a Pembroke Welsh Corgi named [Radagast the Marble Rye](https://github.com/CelinaWalkowicz/CelinaWalkowicz/tree/main/Radgast_the_Marble_Rye), after Radagast the Brown. 
